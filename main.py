@@ -56,7 +56,7 @@ def count_occurrences(S, L):
 
     return count_type_1, count_type_2_result, count_type_3_result
 
-"@brief This is the main function to execute the program. It takes input test cases from the user, processes them, and displays the results.""
+"@brief This is the main function to execute the program. It takes input test cases from the user, processes them, and displays the results."
 def main():
     print("Enter test cases (S L) one by one. Enter '0' to finish.")
     while True:
